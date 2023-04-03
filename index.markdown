@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.png
+  src: /assets/img/profile-pic.jpg
   alt: The Playwright
 ---
 
