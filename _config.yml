@@ -29,6 +29,7 @@ url: "http://wabi-sa.com" # the base hostname & protocol for your site, e.g. htt
 
 # Build settings
 theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
 plugins:
   - jekyll-feed
 
