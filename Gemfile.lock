@@ -256,7 +256,7 @@ PLATFORMS
   amd64-freebsd-13
 
 DEPENDENCIES
-  bay_jekyll_theme
+  bay_jekyll_theme (~> 1.0, >= 1.0.19)
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
