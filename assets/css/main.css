@@ -7,6 +7,8 @@ body { font-family: Charter, Georgia, Helvetica, Arial, sans-serif; font-size: 1
 /** Set `margin-bottom` to maintain vertical rhythm */
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure { margin-bottom: 15px; }
 
+p { margin-bottom: 8px; }
+
 /** Images */
 img { max-width: 100%; vertical-align: middle; height: auto; }
 
@@ -21,9 +23,11 @@ ul, ol { margin-left: 30px; }
 li > ul, li > ol { margin-bottom: 0; }
 
 /** Headings */
-h1, h2, h3, h4, h5, h6 { font-weight: 300; font-family: "Futura", sans-serif; }
+h1, h2, h3, h4, h5, h6 { font-weight: 400; font-family: "Futura", sans-serif; }
 
-h4 { font-size: 12px; }
+h3 { text-align: center; }
+
+h4 { font-size: 12px; font-weight: 300; }
 
 /** Links */
 a { color: #2a7ae2; text-decoration: none; }
